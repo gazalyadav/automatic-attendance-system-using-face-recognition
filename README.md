@@ -27,7 +27,7 @@ Clone the repository and install dependencies:
 bash
 Copy
 Edit
-git clone https://github.com/sourav-sudow/face-recognition-attendance.git
+git clone https://github.com/gazal-sudow/face-recognition-attendance.git
 cd face-recognition-attendance
 pip install -r requirements.txt
 ▶️ Running the App
